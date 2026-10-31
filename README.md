@@ -47,4 +47,6 @@ ADR identification is an important part of pharmacovigilance. Systematic analysi
 
 - World Health Organization (WHO) – Pharmacovigilance
 - Pharmacovigilance Programme of India (PvPI)
-- Educational material on ADR identification and pharmacovigilance.
+## ADR Reporting Form – Example
+
+![ADR Reporting Form](file_00000000e64082119a4f16aa276132d2.png)- Educational material on ADR identification and pharmacovigilance.
