@@ -30,6 +30,88 @@ Causality assessment is the process of evaluating the relationship between a sus
 
 5. Case Studies
 
+5. Case Studies
+
+The following fictional patient cases demonstrate the application of WHO-UMC causality assessment criteria.
+
+Case Study 1 – Certain
+
+Patient Details:
+
+- Age: 28 years
+- Gender: Male
+- Suspected Drug: Metoclopramide
+- Adverse Reaction: Acute dystonia (involuntary muscle contractions)
+
+Case Description:
+
+A patient received metoclopramide for nausea and developed involuntary neck and facial muscle contractions shortly after administration. Symptoms improved after discontinuation and appropriate treatment. During an accidental re-exposure on a later occasion, the same reaction occurred again.
+
+Causality Assessment:
+
+- Time relationship: Appropriate.
+- Dechallenge: Symptoms improved after drug withdrawal and treatment.
+- Rechallenge: Same reaction occurred again after accidental re-exposure.
+- Alternative causes: No other likely cause identified.
+
+Final Classification: CERTAIN
+
+Reason: The reaction occurred with a reasonable time relationship and recurred following accidental re-exposure, with no likely alternative explanation.
+
+Case Study 2 – Probable / Likely
+
+Patient Details:
+
+- Age: 35 years
+- Gender: Female
+- Suspected Drug: Amoxicillin
+- Adverse Reaction: Skin rash and itching
+
+Case Description:
+
+A patient was prescribed amoxicillin for a bacterial infection. After three days of treatment, she developed a skin rash and itching. The medicine was discontinued, and the symptoms gradually improved.
+
+Causality Assessment:
+
+- Time relationship: Reaction developed after starting the medicine.
+- Dechallenge: Symptoms improved after discontinuation.
+- Rechallenge: Not performed.
+- Alternative causes: No other likely cause identified.
+
+Final Classification: PROBABLE / LIKELY
+
+Reason: The timing was appropriate, symptoms improved after drug withdrawal, and alternative causes were unlikely.
+
+Case Study 3 – Possible
+
+Patient Details:
+
+- Age: 42 years
+- Gender: Male
+- Suspected Drug: Ibuprofen
+- Adverse Reaction: Stomach pain and nausea
+
+Case Description:
+
+A patient was taking ibuprofen for fever and body pain. After two days, he developed stomach pain and nausea. However, he was also suffering from a gastrointestinal infection during the same period.
+
+Causality Assessment:
+
+- Time relationship: Reaction developed after starting the medicine.
+- Dechallenge: Improvement after discontinuation was not clearly documented.
+- Rechallenge: Not performed.
+- Alternative causes: Gastrointestinal infection may also explain the symptoms.
+
+Final Classification: POSSIBLE
+
+Reason: There is a reasonable time relationship between drug administration and the reaction, but the underlying infection could also be responsible.
+
+Summary of Case Studies
+
+Case| Suspected Drug| ADR| WHO-UMC Category
+1| Metoclopramide| Acute dystonia| Certain
+2| Amoxicillin| Skin rash| Probable
+3| Ibuprofen| Stomach pain| Possible
 Three fictional case studies will be analysed to demonstrate Certain, Probable and Possible causality categories.
 
 6. Key Learnings
