@@ -1,0 +1,166 @@
+TASK 5: INDIVIDUAL CASE SAFETY REPORT (ICSR)
+
+1. Introduction
+
+An Individual Case Safety Report (ICSR) is a structured report containing information about a suspected adverse drug reaction experienced by an individual patient after the administration of a medicinal product.
+
+ICSRs are important in pharmacovigilance because they help identify, evaluate, document and monitor the safety of medicines.
+
+2. Objectives
+
+- To understand the structure and importance of an ICSR.
+- To identify and document adverse drug reactions.
+- To assess the seriousness and severity of an ADR.
+- To evaluate the expectedness of the reaction.
+- To perform causality assessment using WHO-UMC criteria.
+- To understand the responsibilities of a Drug Safety Associate.
+
+3. Case Information
+
+Case ID: ICSR-001
+Case Type: Hypothetical educational case
+Report Type: Initial report
+Patient ID: PAT-001
+Patient Age: 35 years
+Sex: Female
+Medical History: Not provided
+Allergies: Not documented
+Indication: Bacterial respiratory tract infection
+
+4. Suspected Drug Information
+
+Parameter| Details
+Suspected drug| Amoxicillin
+Drug class| Penicillin antibiotic
+Dose| 500 mg
+Route| Oral
+Frequency| Not specified
+Indication| Bacterial respiratory tract infection
+Date of administration| Not specified
+Batch number| Not available
+
+5. Adverse Drug Reaction Identification
+
+Reported adverse reactions:
+
+1. Skin rash
+2. Facial swelling
+3. Difficulty breathing
+
+Time to onset: Approximately 30 minutes after administration of amoxicillin.
+
+Clinical observation: The patient developed symptoms suggestive of an acute hypersensitivity reaction following drug administration.
+
+The combination of facial swelling and breathing difficulty is suggestive of a possible anaphylactic reaction and requires immediate medical attention.
+
+6. Case Narrative
+
+A 35-year-old female patient was prescribed amoxicillin 500 mg orally for a bacterial respiratory tract infection. Approximately 30 minutes after administration, the patient developed a skin rash, facial swelling and difficulty breathing.
+
+The patient was taken for emergency medical treatment and was hospitalized for further management. Amoxicillin was discontinued following the suspected adverse reaction.
+
+The clinical presentation was suggestive of a possible anaphylactic reaction. The patient received emergency medical treatment and recovered following treatment.
+
+This case was documented as a suspected serious adverse drug reaction for pharmacovigilance evaluation.
+
+7. Seriousness Assessment
+
+Classification: Serious
+
+Reason:
+
+The case is classified as serious because the patient experienced difficulty breathing and facial swelling, suggestive of a potentially life-threatening reaction, and required hospitalization.
+
+Seriousness criteria identified:
+
+- Life-threatening condition: Potentially applicable based on the reported clinical presentation.
+- Hospitalization: Applicable.
+
+8. Severity Assessment
+
+Classification: Severe
+
+Reason:
+
+The patient experienced significant symptoms, including facial swelling and difficulty breathing, requiring emergency medical intervention and hospitalization.
+
+Therefore, the reaction is classified as severe based on its clinical intensity and impact.
+
+9. Expectedness Assessment
+
+Classification: Expected (subject to verification).
+
+Reason:
+
+Hypersensitivity reactions, including serious allergic reactions, are known risks associated with penicillin antibiotics such as amoxicillin.
+
+The reaction should be compared with the applicable approved product information or reference safety information before final expectedness classification.
+
+For this educational case, the reaction is provisionally classified as expected.
+
+10. Causality Assessment (WHO-UMC)
+
+WHO-UMC Causality Category: Possible
+
+Reason:
+
+- The adverse reaction occurred after administration of amoxicillin.
+- The time interval of approximately 30 minutes is compatible with an acute hypersensitivity reaction.
+- The clinical presentation is consistent with a possible drug-related allergic reaction.
+- Information about alternative causes is not available.
+- Dechallenge information is insufficient to establish a stronger causal relationship.
+- Rechallenge information is not available.
+
+Therefore, based on the limited information, the relationship between amoxicillin and the reported reaction is classified as POSSIBLE according to WHO-UMC criteria.
+
+11. Management and Outcome
+
+Parameter| Details
+Action taken| Suspected drug discontinued
+Medical intervention| Emergency medical treatment
+Hospitalization| Yes
+Treatment details| Not specified
+Patient outcome| Recovered
+Rechallenge| Not performed / information unavailable
+
+12. Final ICSR Summary
+
+Assessment Parameter| Final Classification
+Suspected drug| Amoxicillin
+Adverse reaction| Rash, facial swelling and difficulty breathing
+Severity| Severe
+Seriousness| Serious
+Expectedness| Provisionally expected
+Causality| Possible (WHO-UMC)
+Drug withdrawal| Yes
+Outcome| Recovered
+
+13. Role of a Drug Safety Associate
+
+A Drug Safety Associate is responsible for:
+
+1. Receiving and documenting adverse event reports.
+2. Checking the completeness of patient and drug information.
+3. Identifying and coding adverse events using MedDRA terminology.
+4. Performing seriousness and severity assessments.
+5. Evaluating expectedness using reference safety information.
+6. Performing causality assessment.
+7. Preparing accurate Individual Case Safety Reports.
+8. Following applicable pharmacovigilance reporting timelines.
+9. Maintaining patient confidentiality and data accuracy.
+
+14. Conclusion
+
+Individual Case Safety Reports play an important role in pharmacovigilance by providing structured information about suspected adverse drug reactions.
+
+In this hypothetical case, the patient experienced a suspected acute hypersensitivity reaction following amoxicillin administration. The reaction was classified as severe, serious, provisionally expected and possibly related to the suspected drug according to WHO-UMC causality assessment.
+
+Proper documentation and assessment of ICSRs help identify potential drug safety risks and improve patient safety.
+
+15. References
+
+1. World Health Organization (WHO) – The use of the WHO-UMC system for standardized case causality assessment.
+2. International Council for Harmonisation (ICH) – ICH E2A: Clinical Safety Data Management: Definitions and Standards for Expedited Reporting.
+3. International Council for Harmonisation (ICH) – ICH E2D: Post-Approval Safety Data Management.
+4. Central Drugs Standard Control Organization (CDSCO) – Pharmacovigilance Programme of India (PvPI).
+5. Approved prescribing information for amoxicillin.
